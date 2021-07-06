@@ -1,23 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse
 
-> One paragraph statement about the project.
+> I built my first web project using HTML5 and CSS3
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML5 & CSS3
 
 ## Getting Started
 
@@ -35,25 +26,15 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-### Run tests
-
 ### Deployment
 
 
 
-## Authors
+## Author
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/zainsadaqat)
+- Twitter: [@twitterhandle](https://twitter.com/zain_sadaqat)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/zainsadaqat)
 
 ## 🤝 Contributing
 
